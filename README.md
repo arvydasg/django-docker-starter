@@ -1,3 +1,3 @@
 # django-docker-starter
 
-Most basi
+Most basic Django app for learning purposes.
